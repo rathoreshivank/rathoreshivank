@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29183512/README.md)hey, i'm shivank 👋
+hey, i'm Shivank 👋
 
 full-stack developer from india. just graduated, currently building things and looking for my next opportunity.
 
