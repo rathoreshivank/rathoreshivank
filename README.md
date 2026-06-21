@@ -31,5 +31,6 @@ i like writing clean backend logic, making frontends that don't feel clunky, and
 
 if you want to collaborate, talk shop, or just say hi —
 
-<sub>[linkedin](https://www.linkedin.com/in/rathoreshivank/) · [twitter](https://twitter.com/heyyshivank)</sub>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathoreshivank/)
+[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heyyshivank)
 
