@@ -1,4 +1,4 @@
-hey, i'm shivank — full-stack dev from india, just graduated & open to **full-stack / frontend roles**.
+hey, i'm shivank full-stack dev from india, just graduated & open to **full-stack / frontend roles**.
 
 currently building [codeRoom](https://github.com/rathoreshivank) · working on my portfolio site
 
