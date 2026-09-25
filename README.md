@@ -11,4 +11,4 @@ currently building [codeRoom](https://github.com/rathoreshivank) · working on m
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathoreshivank/)
-[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heyyshivank)
+[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shivanktwt)
