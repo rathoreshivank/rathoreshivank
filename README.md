@@ -1,7 +1,5 @@
 hey, i'm shivank full-stack dev from india, just graduated & open to **full-stack / frontend roles**.
 
-currently building [codeRoom](https://github.com/rathoreshivank) · working on my portfolio site
-
 ![JavaScript](https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/ts-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
