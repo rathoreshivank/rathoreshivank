@@ -1,4 +1,4 @@
-hey, i'm shivank full-stack dev from india, just graduated & open to **full-stack / frontend roles**.
+hey, i'm shivank full-stack dev from india, just graduated & open to **full-stack / backend roles**.
 
 ![JavaScript](https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/ts-3178C6?style=flat-square&logo=typescript&logoColor=white)
